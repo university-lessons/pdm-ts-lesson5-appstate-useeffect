@@ -1,5 +1,5 @@
 import { View, Text, AppState, AppStateStatus } from "react-native";
-import React, { useCallback, useEffect } from "react";
+import React, { useEffect } from "react";
 
 export default function AppStateExample() {
   // init
